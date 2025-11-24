@@ -1,7 +1,7 @@
 # MTG AI Card Set Generator
 Generate a set of custom MTG cards with interesting, synergistic, and mutually reinforcing interactions.
 
-
+Deployment on Hugging Face Spaces: [MTG AI Card Set Generator](https://huggingface.co/spaces/kestrel256/mtg-ai-card-set-generator)
 
 # Magic: The Gathering Card Set Generator
 ## Some Requirements
