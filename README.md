@@ -77,31 +77,50 @@ In the modern 6-kingdom model, the Kingdoms of Life are:
 (4) Protista
 (5) Bacteria (Eubacteria)
 (6) Archaea (Archaebacteria)
-Please generate a set of 6 new MTG cards based on the modern 6-kingdom model. Name this set of cards "The Kingdoms of Life"```
+Please generate a set of 6 new MTG cards based on the modern 6-kingdom model. Name this set of cards "The Kingdoms of Life"
+```
 
 For an ambitious prompt, try this:
+
 ```
-Please generate a set of many cards, to be described below. Name the set "Mesopotamia". In the Explanation for the set, include a description of the general strategy for using this set of cards.
+Please generate a set of many cards, to be described below. Name the set "Mesopotamia".
+In the Explanation for the set, include a description of the general strategy for using this set of cards.
 
-Also, I have found that multicolor decks are tricky to play unless some way of generating mana of different colors is provided. So it may be best to keep the number of colors in the deck to three or less. Suggest how many of each type of plain vanilla basic land (Swamps, Mountains, Plains, Islands, Forests) to include in a deck to properly play the set. Perhaps include some sources of mana in this set to help provide properly-colored mana for other cards in the set.
+Also, I have found that multicolor decks are tricky to play unless some way of generating mana of different colors is provided.
+So it may be best to keep the number of colors in the deck to three or less.
+Suggest how many of each type of plain vanilla basic land (Swamps, Mountains, Plains, Islands, Forests)
+to include in a deck to properly play the set.
+Perhaps include some sources of mana in this set to help provide properly-colored mana for other cards in the set.
 
-Include among the newly generated cards these 8 cards named after cities in ancient Mesopotamia: "Ur", "Uruk", "Kish", "Awan", "Akkad", "Babylon", "Ashur", "Nineveh". These could be lands that provide properly-colored mana for other cards in the set.
+Include among the newly generated cards these 8 cards named after cities in ancient Mesopotamia:
+"Ur", "Uruk", "Kish", "Awan", "Akkad", "Babylon", "Ashur", "Nineveh".
+These could be lands that provide properly-colored mana for other cards in the set.
 
 Include 3 cards named after these famous historical rulers, such as "Sargon", "Sennacherib", "Nebuchadnezzar the Great".
 
-Include 3 cards named after people who themselves might not have been Mesopotamian, but who interacted with Mesopotamia in important ways: "Guti", "Kassites", "Amorites" (who established the Old Babylonian Empire).
+Include 3 cards named after people who themselves might not have been Mesopotamian,
+but who interacted with Mesopotamia in important ways: "Guti", "Kassites",
+"Amorites" (who established the Old Babylonian Empire).
 
-Include the following 3 creature cards: "Winged Bull" with subtype "Lamassu", "Winged Lion" with subtype "Lamassu", "Gugalanna, the Bull of Heaven".
+Include the following 3 creature cards: "Winged Bull" with subtype "Lamassu",
+"Winged Lion" with subtype "Lamassu", "Gugalanna, the Bull of Heaven".
 
-Include 7 cards named "Fertile Crescent", "The Lugal of Kish", "The Curse of Agade", "Code of Hammurabi", "Battle of Carchemish", "The Hanging Gardens of Babylon", and "Tigris and Euphrates".
+Include 7 cards named "Fertile Crescent", "The Lugal of Kish", "The Curse of Agade", "Code of Hammurabi",
+"Battle of Carchemish", "The Hanging Gardens of Babylon", and "Tigris and Euphrates".
 
-Include these 7 artifacts/works: "Cuneiform Tablet", "Library of Ashurbanipal" , "Ziggurat of Ur", "Tablets of Destiny" (which Tiamat gave to Kingu), "The Sumerian King List", "Ark of Utnapishtim", "Assyrian War Chariot".
+Include these 7 artifacts/works: "Cuneiform Tablet", "Library of Ashurbanipal" , "Ziggurat of Ur",
+"Tablets of Destiny" (which Tiamat gave to Kingu), "The Sumerian King List", "Ark of Utnapishtim", "Assyrian War Chariot".
 
-Include 16 cards named mythological figures / concepts: "Marduk", "Enki", "Enlil", "Tiamat, the Primordial Sea", "Gilgamesh", "Enkidu", "Humbaba", "House of Dust" (underworld), "Waters of Death", "Two Great Stone Monsters" (the only beings who could help Gilgamesh cross the Waters of Death, but he mistakenly kills them), "Great Flood", "Inanna, Queen of Heaven", "The Two Galla" (creatures that Enki sent to Earth to find Inanna), "Twin Peaks of Mount Mashu", "Aqrabuamelu, The Scorpion-Men", "The Annuna, Judges of the Underworld".
+Include 16 cards named mythological figures / concepts: "Marduk", "Enki", "Enlil", "Tiamat, the Primordial Sea",
+"Gilgamesh", "Enkidu", "Humbaba", "House of Dust" (underworld), "Waters of Death",
+"Two Great Stone Monsters" (the only beings who could help Gilgamesh cross the Waters of Death, but he mistakenly kills them),
+"Great Flood", "Inanna, Queen of Heaven", "The Two Galla" (creatures that Enki sent to Earth to find Inanna),
+"Twin Peaks of Mount Mashu", "Aqrabuamelu, The Scorpion-Men", "The Annuna, Judges of the Underworld".
 
 Include a card named "Epic of Gilgamesh", which has the saga mechanic.
 
 This should be a total of 48 cards.
 ```
 
-Although the number of cards specifically asked for is 48, I found that the card set generator gave me 58. The output that I got can be seen in the plain text file **Mesopotamia - Card Set.txt**.
+Although the number of cards specifically asked for is 48, I found that the card set generator gave me 58.
+The output that I got can be seen in the plain text file **Mesopotamia - Card Set.txt**.
