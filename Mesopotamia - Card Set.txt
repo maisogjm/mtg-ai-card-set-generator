@@ -1,0 +1,911 @@
+Please generate a set of many cards, to be described below. Name the set "Mesopotamia". In the Explanation for the set, include a description of the general strategy for using this set of cards.
+
+Also, I have found that multicolor decks are tricky to play unless some way of generating mana of different colors is provided. So it may be best to keep the number of colors in the deck to three or less. Suggest how many of each type of plain vanilla basic land (Swamps, Mountains, Plains, Islands, Forests) to include in a deck to properly play the set. Perhaps include some sources of mana in this set to help provide properly-colored mana for other cards in the set.
+
+Include among the newly generated cards these 8 cards named after cities in ancient Mesopotamia: "Ur", "Uruk", "Kish", "Awan", "Akkad", "Babylon", "Ashur", "Nineveh". These could be lands that provide properly-colored mana for other cards in the set.
+
+Include 3 cards named after these famous historical rulers, such as "Sargon", "Sennacherib", "Nebuchadnezzar the Great".
+
+Include 3 cards named after people who themselves might not have been Mesopotamian, but who interacted with Mesopotamia in important ways: "Guti", "Kassites", "Amorites" (who established the Old Babylonian Empire).
+
+Include the following 3 creature cards: "Winged Bull" with subtype "Lamassu", "Winged Lion" with subtype "Lamassu", "Gugalanna, the Bull of Heaven".
+
+Include 7 cards named "Fertile Crescent", "The Lugal of Kish", "The Curse of Agade", "Code of Hammurabi", "Battle of Carchemish", "The Hanging Gardens of Babylon", and "Tigris and Euphrates".
+
+Include these 7 artifacts/works: "Cuneiform Tablet", "Library of Ashurbanipal" , "Ziggurat of Ur", "Tablets of Destiny" (which Tiamat gave to Kingu), "The Sumerian King List", "Ark of Utnapishtim", "Assyrian War Chariot".
+
+Include 16 cards named mythological figures / concepts: "Marduk", "Enki", "Enlil", "Tiamat, the Primordial Sea", "Gilgamesh", "Enkidu", "Humbaba", "House of Dust" (underworld), "Waters of Death", "Two Great Stone Monsters" (the only beings who could help Gilgamesh cross the Waters of Death, but he mistakenly kills them), "Great Flood", "Inanna, Queen of Heaven", "The Two Galla" (creatures that Enki sent to Earth to find Inanna), "Twin Peaks of Mount Mashu", "Aqrabuamelu, The Scorpion-Men", "The Annuna, Judges of the Underworld".
+
+Include a card named "Epic of Gilgamesh", which has the saga mechanic.
+
+This should be a total of 48 cards.
+
+Mesopotamia
+This Mesopotamia set is a three-color–friendly, historic-legendary themed environment built around legendary lands, creatures, and artifacts, with a strong subtheme of sagas, gods, and city-states. The general strategy is to develop powerful legendary mana bases like Ur, Uruk, Kish, Awan, Akkad, Babylon, Ashur, Nineveh, Twin Peaks of Mount Mashu, and Tigris and Euphrates, then leverage them with legendary payoffs such as Marduk, Enki, Enlil, Tiamat, the Primordial Sea, Gilgamesh, Enkidu, Inanna, Queen of Heaven, and many support pieces like The Lugal of Kish, The Sumerian King List, and Library of Ashurbanipal.
+
+COLOR IDENTITY AND BASIC LANDS
+
+Most of the set’s power lies in white, blue, black, red, and green, but the cards cluster most heavily in three colors: white, green, and black, with strong splashes for blue and red. To keep things manageable, a typical 60-card deck using this set as a core should aim for an Abzan (W/B/G) base with light U/R splashes enabled by the legendary lands and mana rocks.
+
+For a 24-land deck built around these cards, a good starting mix of basic lands is:
+
+6 Plains
+5 Swamps
+5 Forests
+4 Islands
+4 Mountains
+Because many cards like Fertile Crescent, The Hanging Gardens of Babylon, Marshland Irrigator, Clay Tablet Archive, Cuneiform Tablet, Ziggurat of Ur, Temple Astronomer of Ur, and Mesopotamian Frontier Scout help fix or ramp mana, you can rely less on exact basic ratios in practice, but the above mix supports casting the bulk of spells while still enabling blue and red legends.
+
+SYNERGY: LEGENDARY LANDS AND LEGENDARY PAYOFFS
+
+The core synergy is between the legendary city lands—Ur, Uruk, Kish, Awan, Akkad, Babylon, Ashur, Nineveh, Twin Peaks of Mount Mashu, and Tigris and Euphrates—and legendary payoffs.
+
+• Ur fixes white/blue and can scry and gain life, fueling control strategies alongside Waters of Death and House of Dust. • Uruk fixes red/green and grants trample and power boosts, perfect for Gugalanna, the Bull of Heaven, Gilgamesh, Enkidu, Humbaba, and Desert Caravan Trader–fueled attacks. • Kish fixes white/black and can produce any color specifically for legendary spells, enabling multicolor legends like Marduk or Inanna, Queen of Heaven. • Awan fixes green/blue and grows new creatures, synergizing with Gilgamesh’s counters and The Sumerian King List’s token strategies. • Akkad fixes red/black and grants menace, fitting aggressive decks with Guti, Amorites, Assyrian War Chariot, and Sennacherib. • Babylon supports recursion of small creatures like Mesopotamian Frontier Scout, Clay Brick Mason, River Reed Scribe, and Underworld Ferryman, all of which feed the historic engine. • Ashur produces red/white and creates Warrior tokens if you control a legendary creature; these pair well with The Lugal of Kish and Assyrian War Chariot. • Nineveh provides blue/black and mills, fueling House of Dust, The Annuna, Judges of the Underworld, and Underworld Ferryman. • Twin Peaks of Mount Mashu adds red/green and exiles cards to play, especially strong with many high-impact legends like Marduk or Tiamat, the Primordial Sea. • Tigris and Euphrates ramps into green/blue and animates lands; it also draws cards when legendary lands become creatures, combining nicely with Fertile Crescent and The Hanging Gardens of Babylon by turning your mana base into threats.
+
+These lands are enhanced by Fertile Crescent, which places growth counters on lands and turns them into rainbow sources, and by The Hanging Gardens of Babylon, which creates Plants that can be sacrificed for any color to cast legendary spells. Marshland Irrigator, Mesopotamian Frontier Scout, Clay Tablet Archive, Cuneiform Tablet, Ziggurat of Ur, and Temple Astronomer of Ur all further stabilize your colors and reward playing many lands or legendary cards.
+
+SYNERGY: LEGENDARY MATTERS AND HISTORIC PAYOFFS
+
+Many cards explicitly reward you for controlling or casting historic spells (legendaries, sagas, and artifacts).
+
+• Marduk triggers whenever you cast a historic spell (including artifacts like Cuneiform Tablet, Library of Ashurbanipal, Ziggurat of Ur, Tablets of Destiny, The Sumerian King List, Ark of Utnapishtim, Assyrian War Chariot, and Clay Tablet Archive, or sagas like Epic of Gilgamesh). Each trigger lets you either deal 2 damage to any target or loot, making every historic play a tempo or card advantage boost. • Enki untaps lands and other permanents at end step and gives you life or a bounce whenever you cast a legendary spell, dovetailing with heavy-legend builds. • Enlil gives all legendary creatures a mana ability to cast more legendary spells, and his attack taps down permanents, especially punishing once you have three or more legendary permanents. • Inanna, Queen of Heaven creates Clerics whenever you cast a historic spell; sacrificing them reanimates legendary creatures like Gilgamesh, Enkidu, Gugalanna, Marduk, or Enki. • Temple Astronomer of Ur scries whenever a land enters, and if that land is legendary you scry 2 and can draw a legendary card, strongly tying legendary lands to card selection. • Library of Ashurbanipal scries on each historic cast and can turn discarded legendary cards into extra draws, synergizing nicely with River Reed Scribe and Nebuchadnezzar the Great. • Cuneiform Tablet and Clay Tablet Archive both produce mana for historic or legendary spells, and Cuneiform Tablet can cheat a legendary card into play tapped. • Ziggurat of Ur gives flexible colored mana for creatures and untaps when you cast legendary creature spells, effectively doubling as a ritual for legends. • Tablets of Destiny lets you play legendary lands from the top of your library and occasionally cast a legendary card for free, making heavy-legend builds extremely explosive.
+
+The Lugal of Kish is a central enchantment: it makes you the monarch whenever a legendary creature enters and then gives legendary creatures +1/+1 and ward if you remain monarch. This pairs beautifully with token makers like The Hanging Gardens of Babylon, Ashur, Assyrian War Chariot, and The Sumerian King List, and with resilient legends like Enkidu, Inanna, Queen of Heaven, and Underworld Ferryman.
+
+The Sumerian King List chooses a creature type—often Human, Warrior, or Lamassu—and buffs legendary creatures of that type, while making Citizen tokens of the chosen type. Those tokens can be turned into meaningful threats with Gilgamesh’s counter-moving, Gugalanna’s damage, or Assyrian War Chariot’s attack bonuses.
+
+SYNERGY: GILGAMESH NARRATIVE PACKAGE
+
+Several cards specifically interlock around the Gilgamesh myth.
+
+• Gilgamesh enters with +1/+1 counters equal to the number of other legendary permanents you control, making him huge in a developed board. He can move counters from other permanents onto himself when he attacks, stealing counters from Enkidu, Humbaba, Plants from The Hanging Gardens of Babylon, or lands animated by Tigris and Euphrates. • Enkidu gets extra counters if you control Uruk, and he gains indestructible if you control Gilgamesh. When Enkidu dies, he transfers two counters to another creature, often back to Gilgamesh or a god like Marduk or Enlil. • Humbaba forces opponents to sacrifice creatures with flying or reach and repeatedly fights opposing creatures whenever you play lands, especially useful with land-ramp from Fertile Crescent, Mesopotamian Frontier Scout, and Marshland Irrigator. • Epic of Gilgamesh tutors Gilgamesh or Enkidu, then creates a Beast token representing Humbaba’s Guardian, and finally grants a massive overrun-like effect to legendary creatures with trample and a death-draw trigger. This final chapter combines with Gilgamesh’s on-death card draw, Gugalanna’s trample, and Marduk’s damage to finish games. • Two Great Stone Monsters can sacrifice itself to protect a legendary creature from targeted effects, keeping Gilgamesh or Enkidu alive at key moments. • Waters of Death exiles attackers and grants scry and life if you control legendary creatures or lands, reflecting the peril of Gilgamesh’s journey.
+
+Together, Gilgamesh, Enkidu, Humbaba, Epic of Gilgamesh, Two Great Stone Monsters, Waters of Death, Twin Peaks of Mount Mashu, and Ark of Utnapishtim form a self-contained narrative engine that is also strategically powerful.
+
+SYNERGY: GODS, UNDERWORLD, AND JUDGMENT
+
+The divine and underworld cards create a recursive, grindy gameplan.
+
+• Tiamat, the Primordial Sea creates Serpents equal to your legendary count and can sacrifice legendary permanents to counter spells that target you or your permanents. This pairs with token-producing legendaries like The Hanging Gardens of Babylon, Ashur, Inanna, Queen of Heaven, and The Sumerian King List. • House of Dust shrinks all creatures and mills whenever they die, filling graveyards for Underworld Ferryman, Babylon, Inanna, Queen of Heaven, and The Annuna, Judges of the Underworld. • The Annuna, Judges of the Underworld exiles graveyard creatures and drains life or grows your legends when any creature card is exiled. This is particularly potent with Nineveh’s milling and exiling, Waters of Death’s exile, and Great Flood’s sweeping destruction. • The Two Galla tutors for Inanna, Queen of Heaven or House of Dust, then drains life each time a legendary creature enters, synergizing with token recursion and multi-legend turns enabled by Tablets of Destiny. • Underworld Ferryman reanimates small creatures like Mesopotamian Frontier Scout, Clay Brick Mason, River Reed Scribe, and Bronze-Helmed Spearman, and comes back when legends die, supporting attrition strategies. • Great Flood is a powerful sweeper that spares legendary permanents and replaces destroyed legendaries with basic lands, synergizing with a deck full of legends and ramp payoffs like Fertile Crescent and Temple Astronomer of Ur.
+
+SYNERGY: WAR AND EMPIRE
+
+The imperial cards reward aggressive, combat-focused play.
+
+• Sargon grows whenever legendary lands enter and buffs other attacking legendary creatures, pushing a go-wide legendary attack. • Sennacherib taps and locks down opposing lands when your creatures connect and shrinks or kills creatures whenever your legendary lands tap, combining with menace from Akkad and Guti, and evasion from Winged Lion. • Nebuchadnezzar the Great offers versatile ETB/attack modes and turns all your legendary lands into rainbow sources for historic spells, solving multicolor issues and enabling big plays with Marduk, Tiamat, the Primordial Sea, and Great Flood. • Guti pressures hands with discard and grows via Raid, pairing well with Battle of Carchemish’s debuff and menace from Akkad and Desert Caravan Trader. • Kassites fetches any land (including legendary cities) and gains life when lands enter, or grows when they’re legendary, making it a key fixer. • Amorites grants haste and power boosts when you control a legendary land and can be sacrificed for multicolored mana for legends. • Assyrian War Chariot grants haste and boosts attacking legendary creatures, combining strongly with Sargon, Aqrabuamelu, The Scorpion-Men, and Enlil. • Battle of Carchemish doubles as a mass debuff or a draw engine on legendary combat damage, and can be cast at instant speed if you have three or more legendaries. • Aqrabuamelu, The Scorpion-Men locks down nonlegendary creatures and gives all your legendary creatures vigilance, perfect for attacking while still holding up blockers and mana abilities from Enlil.
+
+SYNERGY: CITY DEFENSE, LAMASSU, AND ARTISANS
+
+The city-defense and artisan cards support both stall and ramp strategies.
+
+• Winged Bull gains ward while you control a legendary land and boosts other Lamassu’s toughness, making it a key defensive piece. • Winged Lion taps blockers on attack and gains vigilance if you control another Lamassu, pairing naturally with Winged Bull. • Bronze-Helmed Spearman and City Gate Watch both become more formidable when you control legendary lands, representing fortified cities. • Clay Brick Mason ramps into artifacts and enchantments, growing when you cast legendary ones like The Lugal of Kish, Code of Hammurabi, The Curse of Agade, Library of Ashurbanipal, Ziggurat of Ur, Tablets of Destiny, The Sumerian King List, Ark of Utnapishtim, and Epic of Gilgamesh. • River Reed Scribe loots on ETB and can be recurred when you discard legendary cards, synergistic with Library of Ashurbanipal, Nebuchadnezzar the Great, and Tablets of Destiny. • Desert Caravan Trader generates Treasures and converts sacrificed artifacts into menace and power boosts, fitting into aggressive or midrange shells built around Cuneiform Tablet, Clay Tablet Archive, and Assyrian War Chariot.
+
+CURSES, LAWS, AND CONTROL
+
+Control and midrange decks can leverage the legalistic and curse-themed cards.
+
+• Code of Hammurabi punishes nonlegendary creatures that hit you and turns legendary deaths into card draw, encouraging you to rely heavily on legendary creatures and tokens. • The Curse of Agade forces an immediate legendary sacrifice and then punishes opponents who accumulate legendary permanents, ideal against other historic-heavy decks. • House of Dust plus Nineveh and The Annuna, Judges of the Underworld form a soft lock on creature strategies by shrinking, milling, and exiling creatures. • Waters of Death, Great Flood, and Battle of Carchemish provide layers of removal and board reset.
+
+GENERAL STRATEGY USING THIS SET
+
+A strong Mesopotamia deck typically:
+
+Establishes a reliable mana base by playing a mix of basics (Plains, Swamps, Forests, Islands, Mountains) and legendary lands like Ur, Uruk, Kish, Awan, Akkad, Babylon, Ashur, Nineveh, Twin Peaks of Mount Mashu, and Tigris and Euphrates, supported by Fertile Crescent, The Hanging Gardens of Babylon, Marshland Irrigator, Mesopotamian Frontier Scout, Clay Tablet Archive, Cuneiform Tablet, and Ziggurat of Ur.
+Deploys early historic enablers such as Clay Brick Mason, Temple Astronomer of Ur, River Reed Scribe, Mesopotamian Frontier Scout, and Desert Caravan Trader to smooth draws and fix mana.
+Drops midgame legends—Gilgamesh, Enkidu, Marduk, Enki, Enlil, Inanna, Queen of Heaven, Tiamat, the Primordial Sea, Sargon, Sennacherib, Nebuchadnezzar the Great, Guti, Kassites, Amorites, Aqrabuamelu, The Scorpion-Men—to seize board control and generate ongoing value from historic casts and legendary lands.
+Uses synergies like The Lugal of Kish, The Sumerian King List, The Hanging Gardens of Babylon, Library of Ashurbanipal, Tablets of Destiny, and Epic of Gilgamesh to snowball advantage, while relying on removal and control tools like Waters of Death, House of Dust, The Annuna, Judges of the Underworld, Battle of Carchemish, The Curse of Agade, Code of Hammurabi, and Great Flood to manage opposing threats.
+Closes the game with overwhelming legendary boards (often after Epic of Gilgamesh’s third chapter), trampling attackers like Gugalanna, the Bull of Heaven, Gilgamesh, and Humbaba, evasive gods like Marduk and Enlil, or repeated value and recursion from Inanna, Queen of Heaven, Underworld Ferryman, Ark of Utnapishtim, and Tiamat, the Primordial Sea.
+All 48 cards—from the city-lands like Ur and Babylon to mythic figures like Marduk and Inanna, support creatures like Marshland Irrigator and Bronze-Helmed Spearman, and artifacts like Ark of Utnapishtim and Assyrian War Chariot—are designed to interlock around the historic and legendary themes, making a cohesive and synergistic Mesopotamian experience.
+
+Card Information
+GENERATED CARD #1:
+
+Name: Ur
+Supertype: Legendary
+Type: Land
+Subtype: City
+Keywords:
+Text: Ur enters the battlefield tapped. {T}: Add {W} or {U}. {W}{U}, {T}: Scry 1, then you gain 1 life.
+Flavor Text: White walls gleam over marsh and sea, a beacon to traders from every shore.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #2:
+
+Name: Uruk
+Supertype: Legendary
+Type: Land
+Subtype: City
+Keywords:
+Text: Uruk enters the battlefield tapped. {T}: Add {R} or {G}. {R}{G}, {T}: Target creature gets +1/+0 and gains trample until end of turn.
+Flavor Text: Its walls, like a crown upon the plain, proclaim the pride of kings and heroes.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #3:
+
+Name: Kish
+Supertype: Legendary
+Type: Land
+Subtype: City
+Keywords:
+Text: Kish enters the battlefield tapped. {T}: Add {W} or {B}. {1}, {T}: Add one mana of any color. Spend this mana only to cast a legendary spell.
+Flavor Text: From Kish, the lugal’s word spread like thunder over the land.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #4:
+
+Name: Awan
+Supertype: Legendary
+Type: Land
+Subtype: City
+Keywords:
+Text: Awan enters the battlefield tapped. {T}: Add {G} or {U}. {G}{U}, {T}: Put a +1/+1 counter on up to one target creature that entered the battlefield this turn.
+Flavor Text: Irrigation canals carve emerald veins through the thirsty earth.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #5:
+
+Name: Akkad
+Supertype: Legendary
+Type: Land
+Subtype: City
+Keywords:
+Text: Akkad enters the battlefield tapped. {T}: Add {R} or {B}. {R}{B}, {T}: Target creature gains menace until end of turn. If that creature is legendary, it also gets +1/+0 until end of turn.
+Flavor Text: The city of conquerors, where ambition is forged into empire.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #6:
+
+Name: Babylon
+Supertype: Legendary
+Type: Land
+Subtype: City
+Keywords:
+Text: Babylon enters the battlefield tapped. {T}: Add {W} or {B}. {W}{B}, {T}: Return target creature card with mana value 3 or less from your graveyard to your hand. Activate only as a sorcery.
+Flavor Text: Gateways of glazed brick open onto gardens, courts, and courts of kings yet unborn.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #7:
+
+Name: Ashur
+Supertype: Legendary
+Type: Land
+Subtype: City
+Keywords:
+Text: Ashur enters the battlefield tapped. {T}: Add {R} or {W}. {R}{W}, {T}: Create a 1/1 red and white Warrior creature token. Activate only if you control a legendary creature.
+Flavor Text: From its citadel, iron-clad hosts march at the god’s command.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #8:
+
+Name: Nineveh
+Supertype: Legendary
+Type: Land
+Subtype: City
+Keywords:
+Text: Nineveh enters the battlefield tapped. {T}: Add {U} or {B}. {U}{B}, {T}: Target player mills two cards. Then you may exile a card from a graveyard.
+Flavor Text: Stone lions guard archives where the memory of nations is bound in clay.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #9:
+
+Name: Sargon
+Supertype: Legendary
+Type: Creature
+Subtype: Human Warrior
+Keywords: Haste
+Text: Haste Whenever Sargon attacks, other attacking legendary creatures you control get +1/+0 until end of turn. Whenever a legendary land enters the battlefield under your control, put a +1/+1 counter on Sargon.
+Flavor Text: From humble cupbearer he rose to rule the four corners of the world.
+Colors: R, W
+Mana Cost: {1}{R}{W}
+Power: 3
+Toughness: 2
+
+GENERATED CARD #10:
+
+Name: Sennacherib
+Supertype: Legendary
+Type: Creature
+Subtype: Human Noble
+Keywords:
+Text: Whenever one or more creatures you control deal combat damage to a player, you may tap target land that player controls. It doesn’t untap during its controller’s next untap step. Whenever a legendary land you control becomes tapped, you may have target creature get -1/-1 until end of turn.
+Flavor Text: He boasted that he caged kings like birds and made rivers run red.
+Colors: U, B
+Mana Cost: {2}{U}{B}
+Power: 3
+Toughness: 4
+
+GENERATED CARD #11:
+
+Name: Nebuchadnezzar the Great
+Supertype: Legendary
+Type: Creature
+Subtype: Human Noble
+Keywords:
+Text: Whenever Nebuchadnezzar the Great enters the battlefield or attacks, choose one — • Draw a card, then discard a card. • Return target nonland permanent with mana value 3 or less to its owner’s hand. Legendary lands you control have {T}: Add one mana of any color. Spend this mana only to cast historic spells.
+Flavor Text: He rebuilt Babylon in brick and brilliance, a monument to his restless vision.
+Colors: W, U
+Mana Cost: {2}{W}{U}
+Power: 3
+Toughness: 3
+
+GENERATED CARD #12:
+
+Name: Guti
+Supertype: None
+Type: Creature
+Subtype: Human Warrior
+Keywords: Menace
+Text: Menace When Guti enters the battlefield, if you control a legendary land, target opponent discards a card. Raid — At the beginning of your end step, if you attacked this turn, put a +1/+1 counter on Guti.
+Flavor Text: From the eastern hills they swept down, swift and merciless.
+Colors: B, R
+Mana Cost: {1}{B}{R}
+Power: 3
+Toughness: 2
+
+GENERATED CARD #13:
+
+Name: Kassites
+Supertype: None
+Type: Creature
+Subtype: Human Nomad
+Keywords:
+Text: When Kassites enters the battlefield, you may search your library for a basic land card or legendary land card, reveal it, put it into your hand, then shuffle. Whenever a land enters the battlefield under your control, you gain 1 life. If that land is legendary, instead put a +1/+1 counter on Kassites.
+Flavor Text: Patient settlers who mended a wounded kingdom, field by field.
+Colors: G, W
+Mana Cost: {2}{G}
+Power: 2
+Toughness: 3
+
+GENERATED CARD #14:
+
+Name: Amorites
+Supertype: None
+Type: Creature
+Subtype: Human Nomad
+Keywords:
+Text: Whenever Amorites or another nontoken creature enters the battlefield under your control, if you control a legendary land, that creature gets +1/+0 and gains haste until end of turn. Sacrifice Amorites: Add two mana in any combination of colors. Spend this mana only to cast legendary spells.
+Flavor Text: They came as wanderers and stayed as kings.
+Colors: R, G
+Mana Cost: {1}{R}{G}
+Power: 3
+Toughness: 3
+
+GENERATED CARD #15:
+
+Name: Winged Bull
+Supertype: None
+Type: Creature
+Subtype: Lamassu
+Keywords: Flying, Vigilance
+Text: Flying, vigilance As long as you control a legendary land, Winged Bull has ward {2}. Other Lamassu creatures you control get +0/+1.
+Flavor Text: Stone wings cast shadows of protection over city gates.
+Colors: W
+Mana Cost: {3}{W}{W}
+Power: 3
+Toughness: 5
+
+GENERATED CARD #16:
+
+Name: Winged Lion
+Supertype: None
+Type: Creature
+Subtype: Lamassu
+Keywords: Flying
+Text: Flying Whenever Winged Lion attacks, you may tap target creature defending player controls. As long as you control another Lamassu, Winged Lion gets +1/+1 and has vigilance.
+Flavor Text: Half lion, half eagle, wholly terrifying to the enemies of the king.
+Colors: W, U
+Mana Cost: {2}{W}{U}
+Power: 3
+Toughness: 3
+
+GENERATED CARD #17:
+
+Name: Gugalanna, the Bull of Heaven
+Supertype: Legendary
+Type: Creature
+Subtype: Beast
+Keywords: Trample
+Text: Trample When Gugalanna, the Bull of Heaven enters the battlefield, it deals 3 damage to each non-Lamassu creature. Whenever a legendary land enters the battlefield under your control, you may have Gugalanna fight up to one target creature you don’t control.
+Flavor Text: Loaned from the sky as a weapon of wrath, it left furrows of ruin in its wake.
+Colors: R, G
+Mana Cost: {4}{R}{G}
+Power: 6
+Toughness: 6
+
+GENERATED CARD #18:
+
+Name: Fertile Crescent
+Supertype: None
+Type: Enchantment
+Subtype:
+Keywords:
+Text: At the beginning of your upkeep, you may put a growth counter on target land you control. Lands you control with growth counters on them have {T}: Add one mana of any color.
+Flavor Text: Between twin rivers, mud and seed conspired to feed the world.
+Colors: G
+Mana Cost: {2}{G}
+Power: None
+Toughness: None
+
+GENERATED CARD #19:
+
+Name: The Lugal of Kish
+Supertype: Legendary
+Type: Enchantment
+Subtype:
+Keywords:
+Text: Whenever a legendary creature enters the battlefield under your control, you become the monarch. As long as you’re the monarch, legendary creatures you control get +1/+1 and have Ward—Pay 1 life.
+Flavor Text: The first among kings, whose crown was said to carry the favor of the gods.
+Colors: W, B
+Mana Cost: {1}{W}{B}
+Power: None
+Toughness: None
+
+GENERATED CARD #20:
+
+Name: The Curse of Agade
+Supertype: Legendary
+Type: Enchantment
+Subtype: Curse
+Keywords:
+Text: Enchant player When The Curse of Agade enters the battlefield, enchanted player sacrifices a legendary permanent. At the beginning of enchanted player’s upkeep, they lose 1 life for each legendary permanent they control, then sacrifice a nonland permanent if they control three or more legendary permanents.
+Flavor Text: When kings forgot the gods, even their glory turned against them.
+Colors: B
+Mana Cost: {2}{B}{B}
+Power: None
+Toughness: None
+
+GENERATED CARD #21:
+
+Name: Code of Hammurabi
+Supertype: Legendary
+Type: Enchantment
+Subtype:
+Keywords:
+Text: Whenever a creature deals combat damage to you, if it’s not legendary, its controller sacrifices it unless they discard a card. Whenever a legendary creature you control dies, you may draw a card.
+Flavor Text: The laws were carved in stone, but justice was written in blood.
+Colors: W, B
+Mana Cost: {1}{W}{B}
+Power: None
+Toughness: None
+
+GENERATED CARD #22:
+
+Name: Battle of Carchemish
+Supertype: None
+Type: Sorcery
+Subtype:
+Keywords:
+Text: Choose one or both — • Creatures target player controls get -2/-2 until end of turn. • Until end of turn, whenever a legendary creature you control deals combat damage to a player, draw a card. If you control three or more legendary permanents, you may cast Battle of Carchemish as though it had flash.
+Flavor Text: On that day, empires collided and the fate of nations turned to dust.
+Colors: U, B, R
+Mana Cost: {1}{U}{B}{R}
+Power: None
+Toughness: None
+
+GENERATED CARD #23:
+
+Name: The Hanging Gardens of Babylon
+Supertype: Legendary
+Type: Enchantment
+Subtype:
+Keywords:
+Text: At the beginning of your upkeep, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control. Sacrifice a Plant: Add one mana of any color. Spend this mana only to cast legendary spells or activate abilities of legendary permanents.
+Flavor Text: Terraced wonder where stone and soil defied the desert sky.
+Colors: G
+Mana Cost: {2}{G}
+Power: None
+Toughness: None
+
+GENERATED CARD #24:
+
+Name: Tigris and Euphrates
+Supertype: Legendary
+Type: Land
+Subtype:
+Keywords:
+Text: Tigris and Euphrates enters the battlefield tapped. {T}: Add {G} or {U}. {G}{U}, {T}: Until end of turn, target land you control becomes a 3/3 Elemental creature with hexproof and haste. It’s still a land. Whenever a legendary land you control becomes a creature, draw a card.
+Flavor Text: Twin lifelines that carved kingdoms from clay.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #25:
+
+Name: Cuneiform Tablet
+Supertype: None
+Type: Artifact
+Subtype:
+Keywords:
+Text: {T}: Add {C}. Spend this mana only to cast historic spells. {1}, {T}, Sacrifice Cuneiform Tablet: Draw a card, then you may put a legendary card from your hand onto the battlefield tapped.
+Flavor Text: Wedges of clay that outlasted the empires they recorded.
+Colors: None
+Mana Cost: {1}
+Power: None
+Toughness: None
+
+GENERATED CARD #26:
+
+Name: Library of Ashurbanipal
+Supertype: Legendary
+Type: Artifact
+Subtype:
+Keywords:
+Text: Whenever you cast a historic spell, scry 1. {2}, {T}: Draw a card, then discard a card. If you discarded a legendary card this way, draw a card.
+Flavor Text: A king’s vanity became the world’s memory.
+Colors: None
+Mana Cost: {3}
+Power: None
+Toughness: None
+
+GENERATED CARD #27:
+
+Name: Ziggurat of Ur
+Supertype: Legendary
+Type: Artifact
+Subtype:
+Keywords:
+Text: Ziggurat of Ur enters the battlefield tapped. {T}: Add one mana of any color. Spend this mana only to cast creature spells or activate abilities of creatures. Whenever you cast a legendary creature spell, untap Ziggurat of Ur.
+Flavor Text: Layer upon layer, it reached for heaven and anchored earth.
+Colors: None
+Mana Cost: {2}
+Power: None
+Toughness: None
+
+GENERATED CARD #28:
+
+Name: Tablets of Destiny
+Supertype: Legendary
+Type: Artifact
+Subtype:
+Keywords:
+Text: You may look at the top card of your library any time. You may play legendary lands from the top of your library. {3}, {T}: Reveal the top card of your library. If it’s a legendary card, you may cast it this turn without paying its mana cost. Activate only as a sorcery.
+Flavor Text: Whoever holds them writes the fate of gods and men.
+Colors: None
+Mana Cost: {4}
+Power: None
+Toughness: None
+
+GENERATED CARD #29:
+
+Name: The Sumerian King List
+Supertype: Legendary
+Type: Artifact
+Subtype:
+Keywords:
+Text: As The Sumerian King List enters the battlefield, choose a creature type. Legendary creatures you control of the chosen type get +1/+1. {1}, {T}: Create a 1/1 colorless Citizen creature token of the chosen type. If you control three or more legendary permanents, create two of those tokens instead.
+Flavor Text: From antediluvian sages to mortal kings, all were inked in the same unbroken line.
+Colors: None
+Mana Cost: {2}
+Power: None
+Toughness: None
+
+GENERATED CARD #30:
+
+Name: Ark of Utnapishtim
+Supertype: Legendary
+Type: Artifact
+Subtype:
+Keywords:
+Text: When Ark of Utnapishtim enters the battlefield, exile any number of other nonland permanents you control until Ark of Utnapishtim leaves the battlefield. At the beginning of your upkeep, you may gain 1 life for each card exiled with Ark of Utnapishtim. When Ark of Utnapishtim leaves the battlefield, return the exiled cards to the battlefield under their owners’ control.
+Flavor Text: Within its hull, the seeds of a drowned world waited to live again.
+Colors: None
+Mana Cost: {3}
+Power: None
+Toughness: None
+
+GENERATED CARD #31:
+
+Name: Assyrian War Chariot
+Supertype: None
+Type: Artifact
+Subtype: Vehicle
+Keywords: Haste
+Text: Haste Whenever Assyrian War Chariot attacks, attacking legendary creatures you control get +1/+0 until end of turn. Crew 2
+Flavor Text: Bronze-shod wheels and snorting horses turned battlefields into threshing floors.
+Colors: None
+Mana Cost: {3}
+Power: 4
+Toughness: 2
+
+GENERATED CARD #32:
+
+Name: Marduk
+Supertype: Legendary
+Type: Creature
+Subtype: God
+Keywords: Flying
+Text: Flying As long as you control three or more legendary permanents, Marduk has indestructible. Whenever you cast a historic spell, choose one — • Marduk deals 2 damage to any target. • Draw a card, then discard a card.
+Flavor Text: He rose from the storm to rule over gods and men alike.
+Colors: U, R
+Mana Cost: {2}{U}{R}
+Power: 4
+Toughness: 4
+
+GENERATED CARD #33:
+
+Name: Enki
+Supertype: Legendary
+Type: Creature
+Subtype: God
+Keywords:
+Text: At the beginning of your end step, you may untap up to one target land and up to one other target permanent. Whenever you cast a legendary spell, you may gain 2 life or return target nonland permanent with mana value 2 or less to its owner’s hand.
+Flavor Text: Lord of fresh waters and wise counsel, he loosens knots both mortal and divine.
+Colors: G, U
+Mana Cost: {1}{G}{U}
+Power: 3
+Toughness: 4
+
+GENERATED CARD #34:
+
+Name: Enlil
+Supertype: Legendary
+Type: Creature
+Subtype: God
+Keywords: Flying, Vigilance
+Text: Flying, vigilance Whenever Enlil attacks, tap up to two target permanents. They don’t untap during their controller’s next untap step if you control three or more legendary permanents. Legendary creatures you control have {T}: Add {W}. Spend this mana only to cast legendary spells.
+Flavor Text: His word is the wind that topples walls and crowns.
+Colors: W
+Mana Cost: {3}{W}{W}
+Power: 4
+Toughness: 5
+
+GENERATED CARD #35:
+
+Name: Tiamat, the Primordial Sea
+Supertype: Legendary
+Type: Creature
+Subtype: Dragon God
+Keywords: Flying
+Text: Flying When Tiamat, the Primordial Sea enters the battlefield, create X 1/1 blue Serpent creature tokens, where X is the number of legendary permanents you control. Sacrifice another legendary permanent: Counter target spell that targets you or a permanent you control.
+Flavor Text: From her depths rose both gods and monsters, and in her breaking the world found shape.
+Colors: U, B
+Mana Cost: {4}{U}{B}
+Power: 5
+Toughness: 5
+
+GENERATED CARD #36:
+
+Name: Gilgamesh
+Supertype: Legendary
+Type: Creature
+Subtype: Human Warrior
+Keywords:
+Text: Gilgamesh enters the battlefield with a +1/+1 counter on it for each other legendary permanent you control. Whenever Gilgamesh attacks, you may move a counter from another permanent you control onto Gilgamesh. When Gilgamesh dies, draw cards equal to its power, then discard two cards.
+Flavor Text: Two-thirds divine, one-third mortal, and wholly restless.
+Colors: R, G
+Mana Cost: {1}{R}{G}
+Power: 2
+Toughness: 2
+
+GENERATED CARD #37:
+
+Name: Enkidu
+Supertype: Legendary
+Type: Creature
+Subtype: Human Warrior
+Keywords: Trample
+Text: Trample Enkidu enters the battlefield with two +1/+1 counters on it if you control a land named Uruk. As long as you control Gilgamesh, Enkidu has indestructible. When Enkidu dies, put two +1/+1 counters on up to one target creature you control.
+Flavor Text: Wild as the steppe winds, tamed only by friendship.
+Colors: G
+Mana Cost: {2}{G}
+Power: 3
+Toughness: 3
+
+GENERATED CARD #38:
+
+Name: Humbaba
+Supertype: Legendary
+Type: Creature
+Subtype: Beast
+Keywords: Reach
+Text: Reach When Humbaba enters the battlefield, each opponent sacrifices a creature with flying or reach. Whenever a land enters the battlefield under your control, you may have target creature without flying fight Humbaba.
+Flavor Text: Guardian of the cedar forest, his roar shook the roots of mountains.
+Colors: G
+Mana Cost: {3}{G}{G}
+Power: 5
+Toughness: 4
+
+GENERATED CARD #39:
+
+Name: House of Dust
+Supertype: Legendary
+Type: Enchantment
+Subtype:
+Keywords:
+Text: Creatures get -1/-0. Whenever a creature dies, its controller mills two cards. {2}{B}: Return target creature card from your graveyard to your hand. Activate only if a creature died this turn.
+Flavor Text: All roads of kings and beggars alike lead to the same shadowed gate.
+Colors: B
+Mana Cost: {2}{B}
+Power: None
+Toughness: None
+
+GENERATED CARD #40:
+
+Name: Waters of Death
+Supertype: None
+Type: Instant
+Subtype:
+Keywords:
+Text: Exile target attacking creature. If you control a legendary creature, scry 2. If you control a legendary land, you gain 3 life.
+Flavor Text: No oar could stir them, no wind could crease them, yet they swallowed all who dared their surface.
+Colors: W, U
+Mana Cost: {1}{W}{U}
+Power: None
+Toughness: None
+
+GENERATED CARD #41:
+
+Name: Two Great Stone Monsters
+Supertype: Legendary
+Type: Creature
+Subtype: Golem
+Keywords: Defender, Reach
+Text: Defender, reach You may have Two Great Stone Monsters assign combat damage as though it weren’t blocked. Sacrifice Two Great Stone Monsters: Counter target spell or ability that targets a legendary creature you control.
+Flavor Text: They alone could cross the deadly waters—until a hero’s fear struck first.
+Colors: U
+Mana Cost: {3}{U}
+Power: 5
+Toughness: 5
+
+GENERATED CARD #42:
+
+Name: Great Flood
+Supertype: None
+Type: Sorcery
+Subtype:
+Keywords:
+Text: Destroy all creatures and nonlegendary permanents. They can’t be regenerated. For each legendary permanent destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Flavor Text: For seven days and seven nights the world was nothing but water and wailing.
+Colors: W, U, G
+Mana Cost: {3}{W}{U}{G}
+Power: None
+Toughness: None
+
+GENERATED CARD #43:
+
+Name: Inanna, Queen of Heaven
+Supertype: Legendary
+Type: Creature
+Subtype: God
+Keywords: Flying, Lifelink
+Text: Flying, lifelink Whenever you cast a historic spell, create a 1/1 white Cleric creature token. Sacrifice two Clerics: Return target legendary creature card from your graveyard to the battlefield tapped.
+Flavor Text: She walked the bright paths of the sky and the dark stairs of the underworld.
+Colors: W, B
+Mana Cost: {2}{W}{B}
+Power: 3
+Toughness: 4
+
+GENERATED CARD #44:
+
+Name: The Two Galla
+Supertype: Legendary
+Type: Creature
+Subtype: Demon
+Keywords: Menace
+Text: Menace When The Two Galla enters the battlefield, you may search your library for a card named Inanna, Queen of Heaven or House of Dust, reveal it, put it into your hand, then shuffle. Whenever a legendary creature enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.
+Flavor Text: From the underworld’s gate they came, tireless in their grim errand.
+Colors: B
+Mana Cost: {1}{B}{B}
+Power: 3
+Toughness: 2
+
+GENERATED CARD #45:
+
+Name: Twin Peaks of Mount Mashu
+Supertype: Legendary
+Type: Land
+Subtype: Mountain
+Keywords:
+Text: Twin Peaks of Mount Mashu enters the battlefield tapped. {T}: Add {R} or {G}. {1}{R}{G}, {T}: Exile the top two cards of your library. You may play one of them this turn. If a legendary card is exiled this way, you may play both this turn instead.
+Flavor Text: Their twin summits catch the first light of the sun and the last dreams of mortals.
+Colors: None
+Mana Cost: None
+Power: None
+Toughness: None
+
+GENERATED CARD #46:
+
+Name: Aqrabuamelu, The Scorpion-Men
+Supertype: Legendary
+Type: Creature
+Subtype: Scorpion Warrior
+Keywords: First strike, Vigilance
+Text: First strike, vigilance Whenever Aqrabuamelu, The Scorpion-Men blocks or becomes blocked by a creature, if that creature isn’t legendary, tap it. It doesn’t untap during its controller’s next untap step. Legendary creatures you control have vigilance.
+Flavor Text: From the waist up they were men, from the waist down, the sting of judgment.
+Colors: R, W
+Mana Cost: {2}{R}{W}
+Power: 3
+Toughness: 3
+
+GENERATED CARD #47:
+
+Name: The Annuna, Judges of the Underworld
+Supertype: Legendary
+Type: Creature
+Subtype: Spirit Advisor
+Keywords:
+Text: When The Annuna, Judges of the Underworld enters the battlefield, each opponent exiles a creature card from their graveyard. Whenever a creature card is exiled from a graveyard, choose one — • Each opponent loses 1 life and you gain 1 life. • Put a +1/+1 counter on target legendary creature you control.
+Flavor Text: In their ledgers, every deed is tallied and every debt must be paid.
+Colors: B
+Mana Cost: {3}{B}
+Power: 2
+Toughness: 5
+
+GENERATED CARD #48:
+
+Name: Epic of Gilgamesh
+Supertype: Legendary
+Type: Enchantment
+Subtype: Saga
+Keywords:
+Text: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) I — Search your library for a creature card named Gilgamesh or Enkidu, reveal it, put it into your hand, then shuffle. II — Create a 3/3 green Beast creature token named Humbaba’s Guardian with reach. III — Until end of turn, legendary creatures you control get +2/+2 and gain trample and When this creature dies, draw a card.
+Flavor Text: Inscribed in clay, the deeds of a restless king outlived his bones.
+Colors: G
+Mana Cost: {2}{G}
+Power: None
+Toughness: None
+
+GENERATED CARD #49:
+
+Name: Mesopotamian Frontier Scout
+Supertype: None
+Type: Creature
+Subtype: Human Scout
+Keywords:
+Text: When Mesopotamian Frontier Scout enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle. Whenever a legendary land enters the battlefield under your control, Mesopotamian Frontier Scout explores.
+Flavor Text: He knew every reedbed by name and every star by habit.
+Colors: G
+Mana Cost: {1}{G}
+Power: 2
+Toughness: 1
+
+GENERATED CARD #50:
+
+Name: Clay Brick Mason
+Supertype: None
+Type: Creature
+Subtype: Human Artificer
+Keywords:
+Text: {T}: Add {C}. Spend this mana only to cast artifact or enchantment spells. Whenever you cast a legendary artifact or legendary enchantment spell, put a +1/+1 counter on Clay Brick Mason.
+Flavor Text: With mud and fire he raised monuments fit for the gods—and for kings who thought themselves gods.
+Colors: W
+Mana Cost: {1}{W}
+Power: 1
+Toughness: 3
+
+GENERATED CARD #51:
+
+Name: River Reed Scribe
+Supertype: None
+Type: Creature
+Subtype: Human Advisor
+Keywords:
+Text: When River Reed Scribe enters the battlefield, draw a card, then discard a card. Whenever you discard a legendary card, you may return River Reed Scribe from your graveyard to your hand.
+Flavor Text: His stylus danced across clay, catching the whispers of princes and peasants alike.
+Colors: U
+Mana Cost: {1}{U}
+Power: 1
+Toughness: 2
+
+GENERATED CARD #52:
+
+Name: Underworld Ferryman
+Supertype: None
+Type: Creature
+Subtype: Spirit
+Keywords:
+Text: When Underworld Ferryman enters the battlefield, you may return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. Whenever a legendary creature you control dies, you may pay {1}{B}. If you do, return Underworld Ferryman from your graveyard to your hand.
+Flavor Text: For a price, he rows both ways across the silent river.
+Colors: B
+Mana Cost: {2}{B}
+Power: 2
+Toughness: 3
+
+GENERATED CARD #53:
+
+Name: Temple Astronomer of Ur
+Supertype: None
+Type: Creature
+Subtype: Human Wizard
+Keywords:
+Text: Whenever a land enters the battlefield under your control, scry 1. If that land is legendary, instead scry 2, then you may reveal the top card of your library. If it’s a legendary card, draw a card.
+Flavor Text: He read the sky as others read clay, finding omens in every wandering light.
+Colors: U
+Mana Cost: {1}{U}
+Power: 1
+Toughness: 3
+
+GENERATED CARD #54:
+
+Name: Bronze-Helmed Spearman
+Supertype: None
+Type: Creature
+Subtype: Human Soldier
+Keywords: Vigilance
+Text: Vigilance As long as you control a legendary land, Bronze-Helmed Spearman gets +1/+0 and has first strike.
+Flavor Text: He stands on the wall of every city, a faceless guardian of brick and blood.
+Colors: W
+Mana Cost: {1}{W}
+Power: 2
+Toughness: 2
+
+GENERATED CARD #55:
+
+Name: Desert Caravan Trader
+Supertype: None
+Type: Creature
+Subtype: Human Rogue
+Keywords:
+Text: When Desert Caravan Trader enters the battlefield, create a Treasure token. Whenever you sacrifice a Treasure or other artifact, target creature you control gets +1/+0 and gains menace until end of turn.
+Flavor Text: From Dilmun to the Levant, his camels carried the weight of empires’ appetites.
+Colors: R
+Mana Cost: {1}{R}
+Power: 2
+Toughness: 2
+
+GENERATED CARD #56:
+
+Name: Marshland Irrigator
+Supertype: None
+Type: Creature
+Subtype: Human Druid
+Keywords:
+Text: When Marshland Irrigator enters the battlefield, you may put a land card from your hand onto the battlefield tapped. {T}: Add one mana of any color that a land you control could produce.
+Flavor Text: With a cut of his shovel, the river’s blessing reached fields far from its banks.
+Colors: G
+Mana Cost: {2}{G}
+Power: 2
+Toughness: 3
+
+GENERATED CARD #57:
+
+Name: City Gate Watch
+Supertype: None
+Type: Creature
+Subtype: Human Soldier
+Keywords: Defender
+Text: Defender As long as you control a legendary land, City Gate Watch can attack as though it didn’t have defender. Whenever City Gate Watch blocks or becomes blocked by a legendary creature, it gets +0/+2 until end of turn.
+Flavor Text: Every stranger is greeted with suspicion, every hero with a story.
+Colors: W
+Mana Cost: {1}{W}
+Power: 1
+Toughness: 4
+
+GENERATED CARD #58:
+
+Name: Clay Tablet Archive
+Supertype: None
+Type: Artifact
+Subtype:
+Keywords:
+Text: {T}: Add {C}. {1}, {T}: Add one mana of any color. Spend this mana only to cast legendary spells. {3}, {T}, Sacrifice Clay Tablet Archive: Draw two cards, then discard a card.
+Flavor Text: Row upon row of baked clay, each a voice calling across four thousand years.
+Colors: None
+Mana Cost: {2}
+Power: None
+Toughness: None
